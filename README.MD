@@ -1,10 +1,3 @@
-## The christmas miracle
-I'm currently travelling home for christmas, and like everytime, I'm excited to see the family,
-but also thinking what will I do in the downtime I have. There will certainly be a few hours left that I will 
-want to code.
-
-So, considering this free time, I've decided to bring you a christmas miracle I was wishing for some time :)
-
 ## Android Binder
 Great pieces of software for android, Lofty original goals, etc ...
 Works relatively great ( few security issues over the years). Is missing a proper rust binding.
